@@ -51,7 +51,7 @@ Create a table and run a query over it.
 
 Next launch the interactive Spark shell.
 
-    spark-shell --master yarn-client
+    spark-shell
 
 Run word count in Spark.
 
